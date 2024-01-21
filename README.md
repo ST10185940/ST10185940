@@ -29,10 +29,16 @@
 </div>
 
 <br/>
+
+<a href="#">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ST10185940&show_icons=true&theme=dark&hide=stars,prs,contribs&hide_border=true" />
+</a>
+
+<br/>
 <hr/>
 
 <h1 align= right>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FF9237&background=9CFF3500&random=false&width=435&lines=Thanks+for+stopping+by" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FF9237&theme=transparent&random=false&width=435&lines=Thanks+for+stopping+by" alt="Typing SVG" />
 </h1>
 
 

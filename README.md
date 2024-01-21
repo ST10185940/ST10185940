@@ -2,7 +2,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ST10185940.ST10185940" />
 
 <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FF9237&background=9CFF3500&random=false&width=435&lines=Hey+there+!%2C+I'm+Moses;Feel+free+to+look+around." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&repeat=false&color=FF9237&background=9CFF3500&random=false&width=435&lines=Hey+there+!%2C+I'm+Moses;Feel+free+to+look+around." alt="Typing SVG" />
 </h1>
 
 
@@ -16,7 +16,7 @@
  
     🔭 I’m currently working on an employee management app
     
-    🌱 I’m currently learning **Docker and AWS**
+    🌱 I’m currently learning Docker and AWS
    
 </div>
 
@@ -32,7 +32,7 @@
 <hr/>
 
 <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FF9237&background=9CFF3500&random=false&width=435&lines=Thanks+for+stopping+by" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&repeat=false&color=FF9237&background=9CFF3500&random=false&width=435&lines=Thanks+for+stopping+by" alt="Typing SVG" />
 </h1>
 
 

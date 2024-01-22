@@ -30,10 +30,6 @@
 
 <br/>
 
-<a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ST10185940&show_icons=true&theme=dark&hide=stars,prs,contribs&hide_border=true" />
-</a>
-
 <br/>
 <hr/>
 

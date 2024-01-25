@@ -2,7 +2,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ST10185940.ST10185940" />
 
 <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FF9237&background=9CFF3500&random=false&width=435&lines=Hey+there+!%2C+I'm+Moses;Feel+free+to+look+around." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FF9237&background=9CFF3500&random=false&width=435&lines=Hey+there!%2C+I'm+Moses;Feel+free+to+look+around." alt="Typing SVG" />
 </h1>
 
 
@@ -51,7 +51,7 @@
  
 
 <h1 align= right>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FF9237&theme=transparent&random=false&width=435&lines=Thanks+for+stopping+by" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FF9237&theme=transparent&random=false&width=435&lines=Thank's+for+stopping+by" alt="Typing SVG" />
 </h1>
 
 

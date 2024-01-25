@@ -15,7 +15,7 @@
     I'm in the final year of my Comp Sci Degrea.
     I mostly work on desktop apps and back-ends ,and will be looking into mobile apps soon.
  
-    🔭 I’m currently working on an employee management app
+    🔭 I’m currently working on an employee management system
     
     🌱 I’m currently learning Docker and AWS
    
@@ -32,6 +32,22 @@
 
 <br/>
 <hr/>
+
+<div>
+    
+ ### 🚀 Technical Pursuits 
+   - Overcoming LeetCode PTSD
+    
+ ### 🎨 Creative Outlets
+  - **Dystopian Surrealism:** Fascinated by the works of Polish artists like Zdzisław Beksiński and Dariusz Zawadzki. <br/>
+  - **Brutalist Architecture:**
+
+ ### 🎸 Leisure Activities
+ - **Music Junkie:** Exploring diverse genres.
+ - **Time-Traveling with Tinfoil Hats:** Binge-watching retro sci-fi films.
+ 
+</div>
+ 
 
 <h1 align= right>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FF9237&theme=transparent&random=false&width=435&lines=Thanks+for+stopping+by" alt="Typing SVG" />

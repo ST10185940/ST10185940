@@ -7,18 +7,18 @@
 
 
 <h2 align="center">
-    A Software Dev 
+      Code Conjerer || Software Dev Aspirant
 </h2>
 
 <div align="center">
 
     I'm in the final year of my Comp Sci Degrea.
     
-    I mostly work on desktop apps and back-ends ,and will be looking into mobile apps soon.
+    I mostly work on desktop apps and back-ends and will be looking into mobile apps soon.
  
     🔭 I’m currently working on an employee management system
     
-    🌱 I’m currently learning Docker and AWS
+    🌱 I’m currently learning Everything
    
 </div>
 
@@ -40,8 +40,8 @@
    - Overcoming LeetCode PTSD 😉
     
  ### 🪐 Creative Outlets
-  - **Dystopian Surrealism:** Fascinated by the works of Polish artists like Zdzisław Beksiński and Dariusz Zawadzki. <br/>
-  - **Brutalist Architecture**
+  - **Prototyping**  <br/>
+  - **Custom console applets**
 
  ### 🎸 Leisure Activities
  - **Music Junkie:** Exploring diverse genres.

@@ -41,7 +41,7 @@
     
  ### 🪐 Creative Outlets
   - **Prototyping**  <br/>
-  - **Custom console applets**
+  - **Console applets**
 
  ### 🎸 Leisure Activities
  - **Music Junkie:** Exploring diverse genres.

@@ -16,9 +16,9 @@
     
     I mostly work on desktop apps and back-ends and will be looking into mobile apps soon.
  
-    🔭 I’m currently working on an employee management system
+    🔭 I’m currently working on: an employee management system
     
-    🌱 I’m currently learning Everything
+    🌱 I’m currently learning: ~Everything~
    
 </div>
 

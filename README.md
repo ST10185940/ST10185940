@@ -12,7 +12,7 @@
 
 <div align="center">
 
-    I'm in the final year of my Comp Sci Degrea.
+    I'm in the final year of my Comp Sci Degree.
     
     I mostly work on desktop apps and back-ends and will be looking into mobile apps soon.
  

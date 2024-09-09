@@ -49,8 +49,6 @@
  
 </div>
 
- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ST10185940&show_icons=true&theme=transparent&hide_rank=true&hide=stars&include_all_commits=true&hide_title=true)](https://github.com/ST10185940/github-readme-stats)
-
 <h1 align= right>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FF9237&theme=transparent&random=false&width=435&lines=Thank's+for+stopping+by" alt="Typing SVG" />
 </h1>

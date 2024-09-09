@@ -12,7 +12,7 @@
 
 <div align="center">
 
-    I'm in the 3rd year of my Comp Sci Degree.
+    I'm in the 3rd year of my CS Degree.
     
     I mostly work on desktop apps and back-ends and will be looking into mobile apps soon.
  

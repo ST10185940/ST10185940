@@ -7,7 +7,7 @@
 
 
 <h2 align="center">
-      Code Conjerer || Software Dev
+      Code Conjerer || Junior Dev || Student 
 </h2>
 
 <div align="center">

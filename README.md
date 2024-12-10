@@ -7,14 +7,14 @@
 
 
 <h2 align="center">
-      Code Conjerer || Junior Dev || Student 
+     Junior Dev || Student || Network Engineer
 </h2>
 
 <div align="center">
 
-    I'm in the 3rd year of my CS Degree.
+    I'm in my 3rd year of a CS degree program.
     
-    I mostly work on desktop apps and back-ends and will be looking into mobile apps soon.
+    I mostly work on desktops, web apps, PowerShell scripting and back-ends and will be looking into mobile apps soon.
  
     🔭 I’m currently working on a CRM
     
